@@ -11,7 +11,7 @@
 # Videos
 | Date | Name | Source | Rating | Summary |
 | ---- | ---- | ------ | ------ | ------- |
-| 2023-03 | How to Master the Art of Leadership | [YouTube](https://www.youtube.com/watch?v=iu7nwbFm8Os) | :full_moon: :full_moon: :full_moon: :full_moon: :new_moon: | Simon Sinek says that leadership is a way of thinking, a way of acting, and most importantly, a way of communicating. It means communicating to those people that you care, that you have what it takes to solve their problem. Leaders inspire others around them and make them believe what they believe, as Dr. Martin Luther King did with his vision of "I have a Dream." In this seminar, Simon Sinek explains what makes a good leader and how you can master the skills of leadership. |
+| 2023-03 | [How to Master the Art of Leadership](videos/master_leadership_sinek.md) | [YouTube](https://www.youtube.com/watch?v=iu7nwbFm8Os) | :full_moon: :full_moon: :full_moon: :full_moon: :new_moon: | Simon Sinek says that leadership is a way of thinking, a way of acting, and most importantly, a way of communicating. It means communicating to those people that you care, that you have what it takes to solve their problem. Leaders inspire others around them and make them believe what they believe, as Dr. Martin Luther King did with his vision of "I have a Dream." In this seminar, Simon Sinek explains what makes a good leader and how you can master the skills of leadership. |
 
   # Articles
 | Date | Name | Summary |
