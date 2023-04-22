@@ -6,9 +6,14 @@
 # Podcasts
 | Date | Name | Source | Rating | Summary |
 | ---- | ---- | ------ | ------ | ------- |
-| 2023-04-19 | Relationship Errors - The Common Enemy - Part 1 | [Manager Tools](https://www.manager-tools.com/2023/04/relationship-errors-common-enemy-part-1) | :full_moon: :full_moon: :full_moon: :new_moon: :new_moon: | Bonding with new colleagues over a common enemy is an easy trap to fall into. Whether it's "the boss", "those IT people" or "that client", the outcome is destructive to teams and your relationships with the individuals on them. This Cast Answers These Questions: <ul><li>Why is the common enemy strategy unhelpful?</li><li>How do I avoid falling into the common enemy trap?</li><li>What should I do instead?</li> |
+| 2023-04 | [Relationship Errors - The Common Enemy - Part 1](podcasts/relationship_errors_part_1.md) | [Manager Tools](https://www.manager-tools.com/2023/04/relationship-errors-common-enemy-part-1) | :full_moon: :full_moon: :full_moon: :new_moon: :new_moon: | Bonding with new colleagues over a common enemy is an easy trap to fall into. Whether it's "the boss", "those IT people" or "that client", the outcome is destructive to teams and your relationships with the individuals on them. This Cast Answers These Questions: <ul><li>Why is the common enemy strategy unhelpful?</li><li>How do I avoid falling into the common enemy trap?</li><li>What should I do instead?</li> |
 
-# Articles
+# Videos
+| Date | Name | Source | Rating | Summary |
+| ---- | ---- | ------ | ------ | ------- |
+| 2023-03 | How to Master the Art of Leadership | [YouTube](https://www.youtube.com/watch?v=iu7nwbFm8Os) | :full_moon: :full_moon: :full_moon: :full_moon: :new_moon: | Simon Sinek says that leadership is a way of thinking, a way of acting, and most importantly, a way of communicating. It means communicating to those people that you care, that you have what it takes to solve their problem. Leaders inspire others around them and make them believe what they believe, as Dr. Martin Luther King did with his vision of "I have a Dream." In this seminar, Simon Sinek explains what makes a good leader and how you can master the skills of leadership. |
+
+  # Articles
 | Date | Name | Summary |
 | ---- | ---- | ------- |
 | 2023-04 | [The Skill/Will Matrix](https://www.mindtools.com/a4uva7f/the-skillwill-matrix) |The article titled "The Skill/Will Matrix" describes a useful tool for managers to assess their team's level of skill and willingness to complete a given task. The Skill/Will Matrix is a simple two-by-two grid that plots team members on a scale of high to low skill and high to low willingness. The four resulting categories are labeled as "Delegated," "Coached," "Supported," and "Directed," each with its own recommended management approach. The article also provides tips for managers to effectively communicate with each category and help team members move toward higher skill and willingness levels. The Skill/Will Matrix can be a valuable tool for managers to tailor their leadership style to each team member's needs and achieve optimal results. |
