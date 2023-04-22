@@ -1,3 +1,4 @@
+# Raw Notes
 Using the common enemy as a bonding method is all to common, especially with early relationships.
 
 It's a bit lit gossip, but not good in the long term
