@@ -7,6 +7,7 @@
 | Date | Name | Source | Rating | Summary |
 | ---- | ---- | ------ | ------ | ------- |
 | 2023-04 | [Relationship Errors - The Common Enemy - Part 1](podcasts/relationship_errors_part_1.md) | [Manager Tools](https://www.manager-tools.com/2023/04/relationship-errors-common-enemy-part-1) | :full_moon: :full_moon: :full_moon: :new_moon: :new_moon: | Bonding with new colleagues over a common enemy is an easy trap to fall into. Whether it's "the boss", "those IT people" or "that client", the outcome is destructive to teams and your relationships with the individuals on them. This Cast Answers These Questions: <ul><li>Why is the common enemy strategy unhelpful?</li><li>How do I avoid falling into the common enemy trap?</li><li>What should I do instead?</li> |
+| 2023-05 | [Relationship Errors - The Common Enemy - Part 2](podcasts/relationship_errors_part_2.md) | [Manager Tools](https://www.manager-tools.com/2023/04/relationship-errors-common-enemy-part-2) | :full_moon: :full_moon: :full_moon: :new_moon: :new_moon: | See above ^ |
 
 # Videos
 | Date | Name | Source | Rating | Summary |
