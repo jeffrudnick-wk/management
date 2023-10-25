@@ -5,3 +5,6 @@ Any organization that designs a system (defined broadly) will produce a design w
 
 [Price's Law](https://www.routine.co/blog/what-is-the-prices-law-and-why-is-it-important):
 According to Price's Law, in any group of people, approximately 50% of the work is done by the square root of the total number of people in the group.
+
+[Goodhart’s Law](https://builtin.com/data-science/goodharts-law):
+When a measure becomes a target, it ceases to be a good measure.
